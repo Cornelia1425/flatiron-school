@@ -1,8 +1,8 @@
-Hi, I'm Sakib - a software engineering instructor. Here are some of my notes.
-
-Updated: March 11, 2024
+Hi! I'm **Sakib Rasul**, an instructor at [Flatiron School](https://flatironschool.com). Here are some of my notes on software engineering.
 
 If you see something wrong, [you can let me know with a pull request](https://github.com/rhythms06/flatiron-school/compare). Thanks!
+
+_Updated: March 11, 2024_
 
 # [Phase 1: JavaScript](phase-1)
 
@@ -13,7 +13,7 @@ _An introduction to variables, types, objects, arrays, conditional statements, f
 _Calculate distances and fares for their hyperlocal ridesharing service._
 
 ## [Manipulation](phase-1/manipulation)
-- [Today, Tomorrow, Forever?](phase-1/manipulation/code)
+- [Today, Tomorrow, Forever?](phase-1/manipulation)
 _Modify new and existing elements on a webpage with the power of JavaScript._
 
 ## [Events](phase-1/events)
@@ -23,7 +23,7 @@ _An introduction to event listeners._
 _Use event listeners to add and remove tasks to and from a to-do list._
 
 ## [GET](phase-1/get)
-- [Game of Thrones](phase-1/get/code)
+- [Game of Thrones](phase-1/get)
 _Retrieve a list of Game of Thrones books by invoking `fetch()`._
 
 ## [POST](phase-1/post)
